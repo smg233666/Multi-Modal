@@ -1,0 +1,8 @@
+[
+    {
+        "strength": 0.0,
+        "total_accuracy": 0.3618421052631579,
+        "average_reasoning_token_num": 9320.822368421053,
+        "average_answer_token_num": 4825.023026315789
+    }
+]
